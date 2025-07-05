@@ -1,7 +1,9 @@
+import EquipmentList from "../components/EquipmentList";
+
 const Home = () => {
   return (
     <>
-      <h2>Home</h2>
+      <EquipmentList></EquipmentList>
     </>
   );
 };
